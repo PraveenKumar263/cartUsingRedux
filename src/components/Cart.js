@@ -49,10 +49,10 @@ export function Cart() {
                                     <Grid item xs={12} sm={4}>
                                         <CardMedia
                                             component="img"
-                                            height="140"
+                                            height="250"
                                             image={item.thumbnail}
                                             alt={item.title}
-                                            sx={{ objectFit: 'cover', borderRight: 1, borderColor: 'divider' }}
+                                            sx={{  width: '100%', objectFit: 'contain', borderRight: 1, borderColor: 'divider' }}
                                         />
                                     </Grid>
                                     <Grid item xs={12} sm={8}>
