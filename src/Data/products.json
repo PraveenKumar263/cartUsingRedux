@@ -10,7 +10,7 @@
             "stock": 94,
             "brand": "Apple",
             "category": "smartphones",
-            "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
+            "thumbnail": "https://www.apple.com/newsroom/images/product/iphone/standard/iphonex_front_homescreen_inline.jpg.large_2x.jpg",
             "images": [
                 "https://i.dummyjson.com/data/products/1/1.jpg",
                 "https://i.dummyjson.com/data/products/1/2.jpg",
@@ -29,7 +29,7 @@
             "stock": 34,
             "brand": "Apple",
             "category": "smartphones",
-            "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+            "thumbnail": "https://www.apple.com/newsroom/images/product/iphone/standard/iphonex_front_homescreen_inline.jpg.large_2x.jpg",
             "images": [
                 "https://i.dummyjson.com/data/products/2/1.jpg",
                 "https://i.dummyjson.com/data/products/2/2.jpg",
@@ -47,7 +47,7 @@
             "stock": 36,
             "brand": "Samsung",
             "category": "smartphones",
-            "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
+            "thumbnail": "https://m.media-amazon.com/images/I/415gE2tb1wL._AC_.jpg",
             "images": [
                 "https://i.dummyjson.com/data/products/3/1.jpg"
             ]
@@ -62,7 +62,7 @@
             "stock": 123,
             "brand": "OPPO",
             "category": "smartphones",
-            "thumbnail": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
+            "thumbnail": "https://www.oppo.com/content/dam/oppo/product-asset-library/f19/f19-overview-v1/v1/assets/chunk4-img-1920.png",
             "images": [
                 "https://i.dummyjson.com/data/products/4/1.jpg",
                 "https://i.dummyjson.com/data/products/4/2.jpg",
@@ -81,7 +81,7 @@
             "stock": 32,
             "brand": "Huawei",
             "category": "smartphones",
-            "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
+            "thumbnail": "https://m.media-amazon.com/images/I/51zoW2V0QtL._AC_SX522_.jpg",
             "images": [
                 "https://i.dummyjson.com/data/products/5/1.jpg",
                 "https://i.dummyjson.com/data/products/5/2.jpg",
